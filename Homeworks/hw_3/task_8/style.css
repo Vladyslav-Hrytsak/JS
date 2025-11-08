@@ -1,0 +1,12 @@
+.users-box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.user-block {
+    width: 50%;
+    border: 1px solid black;
+    box-sizing: border-box;
+
+    padding: 16px;
+}
