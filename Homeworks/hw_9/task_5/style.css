@@ -1,0 +1,28 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 100px auto;
+    border: black solid 1px;
+    background-color: bisque;
+}
+
+.title{
+    padding: 20px 0;
+    text-align: center;
+    width: 100%;
+    background-color: #43acb5;
+}
+
+.numbers-content{
+    display: flex;
+    width: 100%;
+}
+
+.number{
+    padding: 20px 0;
+    width: 50%;
+    text-align: center;
+    border: black solid 1px;
+    background-color: #d83e6d;
+}
