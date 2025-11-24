@@ -1,0 +1,15 @@
+.recipe {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 12px 0;
+    max-width: 600px;
+}
+.recipe img {
+    max-width: 100%;
+    border-radius: 8px;
+    margin-bottom: 12px;
+}
+.recipe ul, .recipe ol {
+    margin-left: 20px;
+}

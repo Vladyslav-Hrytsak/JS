@@ -1,5 +1,5 @@
 const moneyDiv = document.getElementById('money');
-let currentValue = parseInt(moneyDiv.innerText); // 100
+let currentValue = parseInt(moneyDiv.innerText);
 
 let lastUpdate = localStorage.getItem('lastUpdateTime');
 let lastValue = localStorage.getItem('moneyValue');

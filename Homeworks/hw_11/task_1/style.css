@@ -1,0 +1,15 @@
+h1{
+    padding: 30px;
+}
+
+.cart{
+    width: 300px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+.prod{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 50px;
+}
